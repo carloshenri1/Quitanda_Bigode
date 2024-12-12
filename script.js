@@ -119,6 +119,6 @@ switch (inicioPrograma) {
         break;
     default:
         alert("Não existe a fruta que voce gosta")
-        alert("A fruta que você gosta vc chupa até o caroço???????")
+      
 
 }
